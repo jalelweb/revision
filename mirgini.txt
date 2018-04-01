@@ -1,6 +1,3 @@
 this is first line
-this is secondond line
-<<<<<<< HEAD
-addeed in master
-added in mirgini
+
 this is third line

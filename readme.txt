@@ -1,4 +1,4 @@
-modification for commit 2
+modification for commit 3
 <<<<<<< HEAD
 <<<<<<< HEAD
 hi! this is seconde edit
